@@ -1,6 +1,8 @@
 ## Hi there
 
-This is Lipraty. An art major student.
+This is Lipraty. An art teacher. 
+
+Love anything fun.
 
 <p align="center">
   <a href="https://github.com/Lipraty">
