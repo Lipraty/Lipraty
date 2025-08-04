@@ -1,6 +1,6 @@
 ## Hi there
 
-This is Lipraty. An art teacher. 
+This is Lipraty. <strike>An art teacher.</strike> Now a front-end developer and UI/UX designer.
 
 Love anything fun.
 
